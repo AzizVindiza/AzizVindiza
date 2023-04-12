@@ -13,11 +13,11 @@
                 }
 
                 .body {
-                --color-main: #93D6C5;
-                --color-primary: #75DDDD;
-                --color-secondary: #d0d1ff;
+                --color-main: #845A6D;
+                --color-primary: #3E1929;
+                --color-secondary: #564769;
                 --color-background: #0d1117;
-                --color-link: #345A66;
+                --color-link: #564769;
                 --color-link-active: #93D6C5;
 
                 height: 400px;
