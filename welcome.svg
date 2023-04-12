@@ -16,7 +16,7 @@
                 --color-main: #93D6C5;
                 --color-primary: #75DDDD;
                 --color-secondary: #508991;
-                --color-background: #172A3A;
+                --color-background: #0d1117;
                 --color-link: #345A66;
                 --color-link-active: #93D6C5;
 
@@ -28,11 +28,6 @@
                 justify-content: center;
 
                 background-image: radial-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
-                animation: border 5s linear infinite;
-                background-size: 200% 200%;
-                background-position: 0 0;
-                border: 24px solid;
-                border-color: var(--color-background);
                 }
 
                 .container {
