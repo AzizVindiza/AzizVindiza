@@ -1,8 +1,9 @@
 <div style="width: 100%;">
-    <img src="welcome.svg" style="width: 100%;" alt="welcome svg styling">
+ <img src="welcome.svg" style="width: 100%;" alt="welcome svg styling"> 
 </div>
 
 <!--
+ads
 **AzizVindiza/AzizVindiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
