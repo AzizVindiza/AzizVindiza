@@ -27,15 +27,18 @@
                 align-items: center;
                 justify-content: center;
 
-                background-image: linear-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
+                background-image: radial-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
                 animation: border 5s linear infinite;
+
                 background-position: 0 0;
+                border: 24px solid;
+                border-color: var(--color-background);
                 }
 
                 .container {
                 background: var(--color-background);
-                height: calc(100% - 100px);
-                width: calc(100% - 100px);
+                height: calc(100% - 50px);
+                width: calc(100% - 50px);
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
