@@ -211,13 +211,13 @@
                     </h1>
                     <section class='items'>
                         <ul>
-                            <li>Writer &#38; Web developer</li>
+                            <li> Web developer</li>
                         </ul>
 <!--                        <ul>-->
 <!--                            <li>at <a href="https://test.com">Test</a></li>-->
 <!--                        </ul>-->
                         <ul>
-                            <li><a href="mailto:vindizaaziz@gmail.com" role="button"><span class='hi'>👋</span></a></li>
+                            <li><a href="mailto:vindizaaziz@gmail.com" role="button">mail me:<span class='hi'>👋</span></a></li>
                         </ul>
                     </section>
                 </div>
