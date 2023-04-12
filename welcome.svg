@@ -174,8 +174,8 @@
                 --color-primary: #5E548E;
                 --color-secondary: #231942;
                 --color-background: #ffffff;
-                --color-link: #E0B1CB;
-                --color-link-active: #32FF32;
+                --color-link: #8D86C9;
+                --color-link-active: #C45AB3;
                 }
                 }
 
@@ -211,7 +211,7 @@
                     </h1>
                     <section class='items'>
                         <ul>
-                            <li> Web developer</li>
+                            <li>Web developer</li>
                         </ul>
 <!--                        <ul>-->
 <!--                            <li>at <a href="https://test.com">Test</a></li>-->
