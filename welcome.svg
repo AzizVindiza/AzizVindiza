@@ -27,7 +27,11 @@
                 align-items: center;
                 justify-content: center;
 
-                background: red;
+                background-image: radial-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
+                animation: border 5s linear infinite;
+
+                border: 50px solid;
+                border-color: var(--color-background);
                 }
 
                 .container {
