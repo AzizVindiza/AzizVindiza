@@ -19,7 +19,6 @@
                 --color-background: #0d1117;
                 --color-link: #345A66;
                 --color-link-active: #93D6C5;
-
                 height: 400px;
                 width: 100%;
                 text-transform: uppercase;
