@@ -217,7 +217,7 @@
 <!--                            <li>at <a href="https://test.com">Test</a></li>-->
 <!--                        </ul>-->
                         <ul>
-                            <li><a href="mailto:vindizaaziz@gmail.com" role="button">mail me:<span class='hi'>👋</span></a></li>
+                            <li><a href="mailto:vindizaaziz@gmail.com" role="button"><span class='hi'>👋</span></a></li>
                         </ul>
                     </section>
                 </div>
