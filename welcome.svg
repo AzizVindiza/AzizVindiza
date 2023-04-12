@@ -170,12 +170,12 @@
 
                 @media (prefers-color-scheme: light) {
                 .body {
-                --color-main: #000000;
-                --color-primary: #14213D;
-                --color-secondary: #FCA311;
-                --color-background: #E5E5E5;
-                --color-link: #00BBF9;
-                --color-link-active: #F15BB5;
+                --color-main: #231942;
+                --color-primary: #5E548E;
+                --color-secondary: #9F86C0;
+                --color-background: #BE95C4;
+                --color-link: #E0B1CB;
+                --color-link-active: #32FF32;
                 }
                 }
 
