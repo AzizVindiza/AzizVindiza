@@ -27,11 +27,9 @@
                 align-items: center;
                 justify-content: center;
 
-                background-image: radial-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
+                background-image: linear-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
                 animation: border 5s linear infinite;
-
-                border: 50px solid;
-                border-color: var(--color-background);
+                background-position: 0 0;
                 }
 
                 .container {
