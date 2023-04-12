@@ -24,7 +24,7 @@
                 width: 100%;
                 text-transform: uppercase;
                 display: flex;
-                align-items: flex-start;
+                align-items: center;
                 justify-content: center;
 
                 background-image: radial-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
