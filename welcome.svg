@@ -19,20 +19,14 @@
                 --color-background: #0d1117;
                 --color-link: #345A66;
                 --color-link-active: #93D6C5;
-
-                height: 400px;
                 width: 100%;
                 text-transform: uppercase;
                 display: flex;
-                align-items: center;
+                align-items: flex-start;
                 justify-content: center;
 
-                background-image: radial-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
-                animation: border 5s linear infinite;
-                background-size: 200% 200%;
-                background-position: 0 0;
-                border: 50px solid;
-                border-color: var(--color-background);
+                background: linear-gradient(45deg,var(--color-main), var(--color-primary), var(--color-secondary));
+
                 }
 
                 .container {
