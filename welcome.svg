@@ -172,8 +172,8 @@
                 .body {
                 --color-main: #231942;
                 --color-primary: #5E548E;
-                --color-secondary: #9F86C0;
-                --color-background: #BE95C4;
+                --color-secondary: #BE95C4;
+                --color-background: #ffffff;
                 --color-link: #E0B1CB;
                 --color-link-active: #32FF32;
                 }
