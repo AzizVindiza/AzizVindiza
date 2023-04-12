@@ -170,9 +170,9 @@
 
                 @media (prefers-color-scheme: light) {
                 .body {
-                --color-main: #231942;
+                --color-main: #9067C6;
                 --color-primary: #5E548E;
-                --color-secondary: #9067C6;
+                --color-secondary: #231942;
                 --color-background: #ffffff;
                 --color-link: #E0B1CB;
                 --color-link-active: #32FF32;
