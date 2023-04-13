@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [Vindiza Aziz](https://instagram.com/)
 -->
-<div style="width: 100%;">
- <img src="text.svg" style="width: 100%;" alt="text styling"> 
-</div>
  <img align="right" src="pikachu.gif" style="width: 100%;" alt="pikachu"> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizvindiza&show_icons=true&theme=dracula&title_color=26C485&text_color=70a9ff&bg_color=0d1117&hide_border=true&locale=en" alt="azizvindiza" /></p>
