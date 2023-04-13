@@ -197,15 +197,6 @@
                 100% { opacity: 1; }
                 }
 
-                @media (prefers-color-scheme: light) {
-                .body {
-                --color-main: #9067C6;
-                --color-primary: #5E548E;
-                --color-secondary: #231942;
-                --color-background: #ffffff;
-                --color-link: #8D86C9;
-                --color-link-active: #C45AB3;
-                }
                 }
 
                 @media (prefers-reduced-motion) {
@@ -228,6 +219,29 @@
                 animation: none;
                 }
                 }
+                .textanime p {
+                font-family: monospace;
+                overflow: hidden; /* Ensures the content is not revealed until the animation */
+                border-right: .15em solid orange; /* The typwriter cursor */
+                white-space: nowrap; /* Keeps the content on a single line */
+                margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+                letter-spacing: .15em; /* Adjust as needed */
+                animation:
+                typing 3.5s steps(30, end),
+                blink-caret .5s step-end infinite;
+                }
+
+                /* The typing effect */
+                @keyframes typing {
+                from { width: 0 }
+                to { width: 100% }
+                }
+
+                /* The typewriter cursor effect */
+                @keyframes blink-caret {
+                from, to { border-color: transparent }
+                50% { border-color: #75DDDD }
+                }
             </style>
             <div class='body'>
                 <div class='container'>
@@ -240,7 +254,7 @@
                     </h1>
                     <section class='items'>
                         <ul>
-                            <li class='shine'>Frontend Web developer</li>
+                            <li class='shine textanime'>Frontend Web developer</li>
                         </ul>
 <!--                        <ul>-->
 <!--                            <li>at <a href="https://test.com">Test</a></li>-->
