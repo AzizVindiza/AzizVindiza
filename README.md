@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [Vindiza Aziz](https://instagram.com/)
 -->
-hi, i'm , a passionate self-taught full stack web developer and a freelance software engineer from Bishkek. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-I"m also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<div style="width: 100%;">
+ <img src="text.svg" style="width: 100%;" alt="text styling"> 
+</div>
  <img align="right" src="pikachu.gif" style="width: 100%;" alt="pikachu"> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizvindiza&show_icons=true&theme=dracula&title_color=26C485&text_color=70a9ff&bg_color=0d1117&hide_border=true&locale=en" alt="azizvindiza" /></p>
