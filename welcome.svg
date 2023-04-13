@@ -11,7 +11,10 @@
                 list-style: none;
                 outline: none;
                 box-sizing: border-box;
-                }
+                } 
+                 .shine{
+                     position:relative;
+                 }
                 .shine:after {
                 content:'';
                 top:0;
